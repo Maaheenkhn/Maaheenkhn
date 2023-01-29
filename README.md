@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maaheenkhn
-- 🌱 I’m currently learning Artificial Intelligence from NUCES
+- 🌱 I’m currently doing Bachelors in Artificial Intelligence from NUCES
 - 📫 You can reach me at maaheenkhn@gmail.com
 
 <!---
